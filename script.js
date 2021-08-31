@@ -18,10 +18,7 @@ console.log( trovaPalindromo(parolaUno) );
  
 // creo la funzione che chiamerò trovaPalindromo
 function giocaComputer(a,b) {
-       if (return Math.random() * parseInt((1 - 5) + 1) < 1 ||
-        return Math.random() * parseInt((1 - 5) + 1) > 5) {
-           
-        }
+       return Math.random() * parseInt((1 - 5) + 1);
     }
 
 let numeroComputer = (giocaComputer());
